@@ -1,0 +1,21 @@
+.card-profile{
+  border-radius: 15px;
+  box-shadow: 0 5px 15px black;
+}
+img{
+  border-radius: 15px 15px 0 0 ;
+}
+h4,p,a{
+  font-family: 'Permanent Marker', cursive;
+}
+a{
+  font-weight: bold;
+}
+.btn-profile{
+  box-shadow: 0 5px 10px black;
+  border-radius: 5px;
+  background-color: #7ee8fa;
+  background-image: linear-gradient(315deg, #7ee8fa 0%, #80ff72 74%);
+  font-family: 'Permanent Marker', cursive;
+  font-weight: bold;
+}

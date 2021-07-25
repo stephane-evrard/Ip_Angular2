@@ -1,0 +1,15 @@
+.bg-data{
+  border-radius: 15px;
+  box-shadow: 0 5px 15px black;
+}
+li{
+  font-family: 'Permanent Marker', cursive;
+}
+li a{
+  font-family: 'Permanent Marker', cursive;
+}
+.badge{
+  padding: 10px;
+  box-shadow: 0 5px 10px black;
+  border-radius: 10px;
+}
