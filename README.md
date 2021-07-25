@@ -51,4 +51,4 @@
     SOFTWARE.
 
 ##  Live link on Netlify
-    https://confident-pasteur-bd202d.netlify.app/
+    https://60fd80edae6e85cdc17aff0d--confident-mccarthy-b69790.netlify.app/
