@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap');
 
 
-body{
+body {
   font-family: 'Ubuntu', sans-serif;
   margin: 0;
   background-image: url("../src/assets/img/beach-bg.jpg");
@@ -13,12 +13,14 @@ body{
   background-size: cover;
   position: relative;
 }
-.bg-navbar{
+
+.bg-navbar {
   background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
   border-radius: 5px;
   box-shadow: 0 5px 5px black;
 }
-nav a{
+
+nav a {
   font-family: 'Permanent Marker', cursive;
   font-weight: bold;
 }

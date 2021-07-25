@@ -1,17 +1,23 @@
-.card-profile{
+.card-profile {
   border-radius: 15px;
   box-shadow: 0 5px 15px black;
 }
-img{
-  border-radius: 15px 15px 0 0 ;
+
+img {
+  border-radius: 15px 15px 0 0;
 }
-h4,p,a{
+
+h4,
+p,
+a {
   font-family: 'Permanent Marker', cursive;
 }
-a{
+
+a {
   font-weight: bold;
 }
-.btn-profile{
+
+.btn-profile {
   box-shadow: 0 5px 10px black;
   border-radius: 5px;
   background-color: #7ee8fa;
